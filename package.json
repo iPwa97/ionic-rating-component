@@ -4,7 +4,7 @@
     "version": "1.2.2",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/squareetlabs/ionic-rating-component.git"
+        "url": "git+https://github.com/iPwa97/ionic-rating-component.git"
     },
     "keywords": [
         "ionic6 rating",
@@ -36,7 +36,7 @@
         }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/squareetlabs/ionic-rating-component",
+    "homepage": "https://github.com/iPwa97/ionic-rating-component",
     "peerDependencies": {
         "@angular/common": "~12.1.5",
         "@angular/core": "~12.1.5",
