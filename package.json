@@ -38,9 +38,9 @@
     "license": "MIT",
     "homepage": "https://github.com/iPwa97/ionic-rating-component",
     "peerDependencies": {
-        "@angular/common": "~12.1.5",
-        "@angular/core": "~12.1.5",
-        "@angular/forms": "~12.1.5",
+        "@angular/common": "~17.0.2",
+        "@angular/core": "~17.0.2",
+        "@angular/forms": "~17.0.2",
         "@ionic/angular": "^5.0.0 || ^6.0.0 || ^7.0.0"
     },
     "dependencies": {
